@@ -18,11 +18,6 @@ A React application to track shared expenses with friends. Keep track of who owe
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm or yarn
-
 ### Installation
 
 1. Clone the repository:
