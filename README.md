@@ -1,7 +1,7 @@
 # Eat & Split
-🌐 Live Demo: https://eat-and-spl.netlify.app/
-
 A React application to track shared expenses with friends. Keep track of who owes whom and split bills easily.
+
+🌐 Live Demo: https://eat-and-spl.netlify.app/
 
 ## Features
 
